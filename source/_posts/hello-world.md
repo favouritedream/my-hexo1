@@ -1,10 +1,10 @@
 ---
-title: Hello World
+title: 夜雨の倾城
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
-
-## Quick Start
-
+我主玩原神，小号目前56级，UID18开头的，平民号，五星角色有11个左右，武器五星5把，魈厨一个，目前魈练度最高，但是吧，这圣遗物太水了，每次都是防御生命拉满，太无语了，可能是我号
+比较黑吧，总之就是游戏做的挺好，这仓检做的太过了。。。。
+## 社交
+挺不错的，在学校里有挺多朋友，在校外也有一些在原神认识的网友，学校里也有少数玩原神的，但等级都比较低，我加了他们的Q群和他们一起玩
 ### Create a new post
 
 ``` bash
