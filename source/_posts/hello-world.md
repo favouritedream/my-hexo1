@@ -5,34 +5,14 @@ title: 夜雨の倾城
 比较黑吧，总之就是游戏做的挺好，这仓检做的太过了。。。。
 ## 社交
 挺不错的，在学校里有挺多朋友，在校外也有一些在原神认识的网友，学校里也有少数玩原神的，但等级都比较低，我加了他们的Q群和他们一起玩
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
+### 个人介绍
+```
+14岁巨蟹男，居惠州，准初三学生，成绩一般般
+``` 
+#### 喜好
 ```
 
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+游戏类：原神 王者荣耀 崩坏三 光遇 明日之后 猫和老鼠 我的世界等等
+饮食类：各种果茶（冰的）（除了金桔柠檬）反正只要有水果的me都来者不拒！！！吃的话什么都吃不下，只喜欢喝，喝，喝
+以上就是我的个人博客，实在想不到别的什么了就只有写了些，还凑合（主要键盘难敲）
+就这样
